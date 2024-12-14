@@ -105,7 +105,7 @@ if (isset($_SESSION['user_id'])) {
                   </p>
             </div>
 
-            <!-- Add more team members as needed -->
+           
          </div>
 
          <!-- Pagination -->
